@@ -22,6 +22,13 @@ I'm well-versed in several programming languages and technologies. Here are some
 
 - **HTML & CSS:** These are the building blocks of the web. I use HTML to structure content and CSS to style and make things visually appealing.
 
+## Additional Skills
+In addition to the languages mentioned above, I also have experience with:
+
+Bootstrap: I'm skilled in using Bootstrap to create responsive and visually appealing websites. It's a fantastic framework that speeds up my development process.
+
+Node.js: When it comes to building server-side applications and APIs, I turn to Node.js. Its event-driven architecture and extensive package ecosystem make it a powerful tool.
+
 ## Current Focus
 
 At the moment, I'm deeply engrossed in web development. I'm working on enhancing my skills in creating beautiful and functional websites. 
@@ -38,7 +45,7 @@ I look forward to contributing to cloud-based projects that have a real impact.
 I'm always eager to connect with fellow coders, anime lovers, and anyone interested in tech. Feel free to reach out to me through the following channels:
 
 - GitHub: [Ichigo's GitHub](https://github.com/ichigo-k)
-- Email: [tettehkephas@outlook.com]
+- Email: tettehkephas@outlook.com
 - Linkedin: [@Kephas(Teye-lao)Tetteh](https://www.linkedin.com/in/kephas-tetteh-617631267/)
 
 Let's learn, code, and grow together! 🚀🌟
