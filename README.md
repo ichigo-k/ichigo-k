@@ -6,7 +6,7 @@ My dream is to eventually venture into the exciting realm of cloud computing and
 
 ## About Me
 
-- **Name:** Kephas (Ichigo)
+- **Name:** Kephas Teye-Lao Tetteh (Ichigo)
 - **Location:** Ghana 🇬🇭
 - **Interests:** Coding, Anime, Web Development, Cloud Computing
 
