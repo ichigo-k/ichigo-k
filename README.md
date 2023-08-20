@@ -38,7 +38,7 @@ I look forward to contributing to cloud-based projects that have a real impact.
 I'm always eager to connect with fellow coders, anime lovers, and anyone interested in tech. Feel free to reach out to me through the following channels:
 
 - GitHub: [Ichigo's GitHub](https://github.com/ichigo-k)
-- Email: [ichigo@example.com](tettehkephas@outlook.com)
+- Email: [tettehkephas@outlook.com]
 - Linkedin: [@Kephas(Teye-lao)Tetteh](https://www.linkedin.com/in/kephas-tetteh-617631267/)
 
 Let's learn, code, and grow together! 🚀🌟
