@@ -29,17 +29,6 @@ Bootstrap: I'm skilled in using Bootstrap to create responsive and visually appe
 
 Node.js: When it comes to building server-side applications and APIs, I turn to Node.js. Its event-driven architecture and extensive package ecosystem make it a powerful tool.
 
-## Current Focus
-
-At the moment, I'm deeply engrossed in web development. I'm working on enhancing my skills in creating beautiful and functional websites. 
-From designing layouts with HTML and CSS to adding interactivity with JavaScript, I'm constantly learning and experimenting to create seamless user experiences.
-
-## Future Aspirations
-
-My journey doesn't end with web development. I have my sights set on the world of cloud computing. 
-The idea of working with scalable infrastructure, managing data in the cloud, and optimizing application performance excites me. 
-I look forward to contributing to cloud-based projects that have a real impact.
-
 ## Contact Me
 
 I'm always eager to connect with fellow coders, anime lovers, and anyone interested in tech. Feel free to reach out to me through the following channels:
