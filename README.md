@@ -67,11 +67,20 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ichigo-k&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichigo-k&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ichigo-k&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f0883e&text_color=c9d1d9&icon_color=f0883e&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ichigo-k&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=bc4c00&text_color=1f2328&icon_color=bc4c00&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ichigo-k&layout=compact&langs_count=8&bg_color=0d1117&title_color=f0883e&text_color=c9d1d9&icon_color=f0883e&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichigo-k&layout=compact&langs_count=8&bg_color=ffffff&title_color=bc4c00&text_color=1f2328&icon_color=bc4c00&hide_border=true" alt="Top languages" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ichigo-k&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ichigo-k&hide_border=true&background=0d1117&ring=f0883e&fire=f0883e&currStreakNum=f0f6fc&currStreakLabel=f0883e&sideNums=f0f6fc&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+    <img src="https://streak-stats.demolab.com/?user=ichigo-k&hide_border=true&background=ffffff&ring=bc4c00&fire=bc4c00&currStreakNum=1f2328&currStreakLabel=bc4c00&sideNums=1f2328&sideLabels=57606a&dates=6e7781&stroke=d0d7de" alt="GitHub streak" />
+  </picture>
 </p>
 
 ---
