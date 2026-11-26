@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kephas 👋</h1>
+<h1 align="center">Hi, I'm Kephas</h1>
 
 <p align="center">
-  <b>Backend & cloud engineer from Accra, Ghana 🇬🇭</b><br/>
+  <b>Backend & cloud engineer from Accra, Ghana</b><br/>
   Java, Python and TypeScript, shipped on AWS. CTO at <b>Appbai</b>, co-founder of <b>HaloAI</b>, Technical Operations Manager at <b>Codetopia</b>.
 </p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧑‍💻 What I do
+### What I do
 
 - **Backend engineering:** services and APIs in Java/Spring Boot and Python/Django, data modelling, auth, and the parts that only break once real traffic arrives.
 - **Cloud & infrastructure:** AWS architecture, Docker, Kubernetes and CI/CD.
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -40,7 +40,7 @@
 
 ---
 
-### 🏢 Organisations I build with
+### Organisations I build with
 
 | Organisation | My role | Main repos | My commits |
 | --- | --- | --- | ---: |
@@ -56,7 +56,7 @@
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,ts,nodejs,nextjs,react,rust,tauri,go,postgres,mysql,mongodb,prisma,aws,docker,kubernetes,githubactions,linux,tailwind&perline=11" />
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <picture>
